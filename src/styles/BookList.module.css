@@ -1,0 +1,14 @@
+.book-list {
+    padding: 20px;
+  }
+  
+  .book-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .book-list li {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
